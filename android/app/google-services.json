@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "369331563985",
+    "firebase_url": "https://apollo19-19c1e.firebaseio.com",
+    "project_id": "apollo19-19c1e",
+    "storage_bucket": "apollo19-19c1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369331563985:android:a3b9ab14b76e6d078e44f0",
+        "android_client_info": {
+          "package_name": "agbi.apollo19"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369331563985-loufqelckshsj6vdp7187e43d40168qf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbt-INqBalkY8NfYpfTviL-4Gz5hTKlxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369331563985-loufqelckshsj6vdp7187e43d40168qf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
