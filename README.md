@@ -1,3 +1,3 @@
 # Apollo 19
 
-Skin Cancer Detector
+<b> Skin Cancer Detector  </b>
